@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-We mainly focus on enzymiology
+We mainly focus on enzymology. 
 
 {% include section.html %}
 
