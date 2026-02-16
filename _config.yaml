@@ -9,11 +9,11 @@ proofer: false
 # site social media and other links
 links:
   email: contact@shmbd.com
-  orcid: 0000-0001-8713-9213
+  orcid: 0000-0001-7735-9888
   google-scholar: ETJoidYAAAAJ
   github: shmbd
-  twitter: shmbd
-  youtube: shmbd
+  #twitter: shmbd
+  #youtube: shmbd
 
 ### jekyll settings
 
