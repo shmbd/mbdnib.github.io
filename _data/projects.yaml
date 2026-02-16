@@ -1,19 +1,19 @@
-- title: Cool Dataset
-  subtitle: a subtitle
-  group: featured
+- title: enzymology
+  subtitle: keratinase and amylase
+  group: PKS and AH
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: isolated from dif sources
   repo: greenelab/lab-website-template
   tags:
     - resource
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: pprobiotics
+  subtitle: dairy
   group: featured
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: anti with different diseases
   repo: greenelab/lab-website-template
   tags:
     - resource
