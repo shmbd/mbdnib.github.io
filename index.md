@@ -35,8 +35,7 @@ Microorganisms like bacteria, yeast, virus, fungi, etc. have economic importance
 
 {% capture text %}
 
-Microorganisms like bacteria, yeast, virus, fungi, etc. have economic importance and industrial values.
-
+Our research interests span from the industrial enzymes to the production of any microbial products from wild or genetically modified microbial species.
 {%
   include button.html
   link="projects"
