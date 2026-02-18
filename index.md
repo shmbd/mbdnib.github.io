@@ -12,7 +12,7 @@ We are dedicated to researching various microbes to create innovative probiotics
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Microorganisms like bacteria, yeast, virus, fungi, etc. have economic importance and industrial values.
 
 {%
   include button.html
@@ -35,7 +35,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Microorganisms like bacteria, yeast, virus, fungi, etc. have economic importance and industrial values.
 
 {%
   include button.html
