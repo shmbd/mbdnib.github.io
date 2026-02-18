@@ -59,8 +59,7 @@ Our research interests span from the industrial enzymes to the production of any
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
+A vibrant team works here
 {%
   include button.html
   link="team"
