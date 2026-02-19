@@ -1,10 +1,14 @@
 ---
-name: John Doe
+name: Md. Saddam Hossain
 image: images/photo.jpg
-role: phd
-group: alum
+role: Scientific Officer
+affiliation: NIB
+aliases:
+  - MS Hossain
+  - M.S. Hossain
 links:
-  github: john-doe
+  home-page: https://janesmith.com
+  orcid: 0000-0001-7735-9888
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+He is an expert in microbiology
