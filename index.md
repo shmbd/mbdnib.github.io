@@ -47,7 +47,7 @@ Our research interests span from the industrial enzymes to the production of any
 
 {%
   include feature.html
-  image="images/enzymes.jpg"
+  image="/images/enzymes.jpg"
   link="projects"
   title="Our Projects"
   text=text
