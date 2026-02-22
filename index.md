@@ -50,8 +50,6 @@ Our research interests span from the industrial enzymes to the production of any
   image="images/enzymes.jpg"
   link="projects"
   title="Our Projects"
-  flip=true
-  style="bare"
   text=text
 %}
 
