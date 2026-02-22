@@ -12,6 +12,8 @@ We are dedicated to researching various microbes to create innovative probiotics
 
 {% capture text %}
 
+![Vaccines and microbiology illustration]({{ 'images/vaccines.jpg' | relative_url }}){: .align-center style="max-width: 400px; margin-bottom: 1em;"}
+
 Microorganisms like bacteria, yeast, virus, fungi, etc. have economic importance and industrial values.
 
 {%
