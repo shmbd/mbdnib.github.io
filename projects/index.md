@@ -9,12 +9,6 @@ nav:
 
 We have currently two projects wurrning in our lab.
 
-  #{% include tags.html tags="publication, resource, website" %}
-  
-  #{% include search-info.html %}
-  
-  #{% include section.html %}
-
 ## Featured
 
 {% include list.html component="card" data="projects" filter="group == 'featured'" %}
