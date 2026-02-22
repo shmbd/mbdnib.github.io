@@ -30,7 +30,7 @@
 - title: drug development
   subtitle: a subtitle
   image: images/photo.jpg
-  link: https://github.com/
+  #link: https://github.com/
   description: to combat AMR
   repo: greenelab/lab-website-template
   tags:
