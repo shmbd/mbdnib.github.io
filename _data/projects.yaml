@@ -20,7 +20,7 @@
 
 - title: enzymology
   subtitle: keratinase and amylase
-  image: images/photo.jpg
+  image: images/enzymes.jpg
   #link: https://github.com/
   description: isolated from dif sources.
   repo: greenelab/lab-website-template
@@ -29,7 +29,7 @@
 
 - title: drug development
   subtitle: a subtitle
-  image: images/photo.jpg
+  image: images/new-drugs.jpg
   #link: https://github.com/
   description: to combat AMR
   repo: greenelab/lab-website-template
@@ -38,7 +38,7 @@
 
 - title: Virology
   subtitle: viral
-  image: images/photo.jpg
+  image: images/vaccines.jpg
   #link: https://github.com/
   description: antiviral and vaccine development
   repo: greenelab/lab-website-template
