@@ -1,16 +1,6 @@
-- title: enzymology
-  subtitle: keratinase and amylase
-  group: PKS and AH
-  image: images/photo.jpg
-  link: https://github.com/
-  description: isolated from dif sources
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-
 - title: probiotics
   subtitle: dairy
-  group: featured
+  #group: featured
   image: images/probiotics.jpg
   #link: https://github.com/
   description: anti with different diseases
