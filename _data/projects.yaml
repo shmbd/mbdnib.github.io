@@ -1,5 +1,15 @@
 - title: probiotics
   subtitle: dairy
+  group: featured
+  image: images/probiotics.jpg
+  #link: https://github.com/
+  description: anti with different diseases
+  repo: greenelab/lab-website-template
+  tags:
+    - gut microbiome
+
+- title: probiotics
+  subtitle: dairy
   #group: featured
   image: images/probiotics.jpg
   #link: https://github.com/
