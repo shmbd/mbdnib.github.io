@@ -16,32 +16,31 @@
   description: anti with different diseases
   repo: greenelab/lab-website-template
   tags:
-    - resource
+    - gut microbiome
 
-- title: Cool Tutorial
+- title: enzymology
+  subtitle: keratinase and amylase
+  image: images/photo.jpg
+  #link: https://github.com/
+  description: isolated from dif sources.
+  repo: greenelab/lab-website-template
+  tags:
+    - environment
+
+- title: drug development
   subtitle: a subtitle
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: to combat AMR
   repo: greenelab/lab-website-template
   tags:
-    - resource
-    - publication
+    - AMR
 
-- title: Cool Web App
-  subtitle: a subtitle
+- title: Virology
+  subtitle: viral
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  #link: https://github.com/
+  description: antiviral and vaccine development
   repo: greenelab/lab-website-template
   tags:
-    - software
-
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+    - human health
