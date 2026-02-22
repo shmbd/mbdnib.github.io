@@ -15,7 +15,6 @@ We are dedicated to researching various microbes to create innovative probiotics
 Microorganisms like bacteria, yeast, virus, fungi, etc. have economic importance and industrial values.
 
 {%
-  include button.html
   link="research"
   text="See our publications"
   icon="fa-solid fa-arrow-right"
