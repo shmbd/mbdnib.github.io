@@ -33,8 +33,8 @@ Microorganisms like bacteria, yeast, virus, fungi, etc. have economic importance
 %}
 
 {% capture text %}
-
 Our research interests span from 
+
 {%
   link="projects"
   text="Browse our projects"
