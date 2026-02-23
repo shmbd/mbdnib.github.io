@@ -25,7 +25,7 @@ Microorganisms like bacteria, yeast, virus, fungi, etc. have economic importance
 {% endcapture %}
 
 {%
-  image="images/new-drugs.jpg"
+  image="images/enzymes.jpg"
   link="research"
   title="Our Research"
   text=text
