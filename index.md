@@ -35,7 +35,7 @@ Microorganisms like bacteria, yeast, virus, fungi, etc. have economic importance
 
 {% capture text %}
 
-Our research interests span from the industrial enzymes to the production of any microbial products from wild or genetically modified microbial species.
+Our research interests span from 
 {%
   link="projects"
   text="Browse our projects"
