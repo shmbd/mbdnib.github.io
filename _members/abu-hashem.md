@@ -1,5 +1,5 @@
 ---
-name: Abu Hashem, PhD (with distinction)
+name: Ab Hashem, PhD (with distinction)
 image: images/photo.jpg
 role: Principal Scientific Officer and Head
 affiliation: NIB
