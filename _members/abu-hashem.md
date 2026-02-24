@@ -11,4 +11,4 @@ links:
   orcid: 0000-0002-0033-7346
 ---
 
-He is an expert on nanotechnology
+He is an expert on technology
